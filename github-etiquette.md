@@ -18,4 +18,3 @@ o	 Divide ‘clean code’ document itself into segments in which you designate 
 o	Give example of the information you want supplied in the first comments of the clean code (eg. Name of original dataset, title of research topic, list of external materials that need to be downloaded before running code, etc.)
 o	Divide the ‘clean code’ document into sections such as descriptive, bivariate, stratified, and  multivariate and give a brief example of clean code for each section
 o	You can include extra sections such as illustrations of how to divide code into subsections for scenarios in which a multiple analysis were done within the same section 
-
