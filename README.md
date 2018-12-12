@@ -5,6 +5,6 @@ We use state-of-the-art technologies to identify novel disease mechanisms or mol
 In this set of repositories, we work to identify novel disease exposures using a wide variety of statistical methods.
 
 ## Learn More 
-Our Website: https://www.mailman.columbia.edu/research/laboratory-precision-environmental-biosciences 
+Our Website: https://www.mailman.columbia.edu/research/laboratory-precision-environmental-health
 
 Dr. Baccarelli's Publications on PubMed: https://www.ncbi.nlm.nih.gov/pubmed?term=Baccarelli%20A%20OR%20Baccarelli%20AA
